@@ -4,17 +4,17 @@
 
 ## Tareas pendientes
 
-### 1. Orden de productos
+### ~~1. Orden de productos~~
 Organizar los productos por **mas reciente**, no alfabeticamente.
 
-### 2. Fecha y hora del pedido
+### ~~2. Fecha y hora del pedido~~
 Arreglar la fecha y hora del pedido.
 > El error solo ocurre en la cuenta de **admin**.
 
-### 3. Estado de la orden
+### ~~3. Estado de la orden~~
 Cambiar el texto **"En curso"** por **"Despachado"**.
 
-### 4. Pago en efectivo
+### ~~4. Pago en efectivo~~
 - Quitar el mensaje que aparece al pagar en efectivo.
 - Quitar el input del vuelto.
 
@@ -34,10 +34,10 @@ Multiplicar la **cantidad del producto** por el **precio unitario** y mostrar un
 ### 8. Filtro por hora en el panel
 Permitir filtrar por **hora** en el panel. Actualmente solo se puede filtrar por fecha.
 
-### 9. Edicion de cantidad por la mesera
+### ~~9. Edicion de cantidad por la mesera~~
 Permitir que la mesera edite la **cantidad de un producto**, siempre y cuando la orden **no haya sido despachada**.
 
-### 10. Notificaciones de estados
+### ~~10. Notificaciones de estados~~ Falta colocarle un sonido, que no sea tan feo, normalito
 Implementar un **sistema de notificaciones** para los cambios de estado de las ordenes.
 
 ### 11. Multiples metodos de pago
